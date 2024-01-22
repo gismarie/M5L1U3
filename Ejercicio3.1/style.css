@@ -1,8 +1,6 @@
-
+body{font-family: 'Segoe UI';}
 #titulo1 {font-size: 30px;}
 .texto1 {font-style: italic; border-style: dotted; border-color: red; }
-.texto2 {color:aliceblue; background-color: dodgerblue; }
-.texto3 {background-color: green;}
 *{font: Segoe UI;}
 
 
