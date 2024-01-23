@@ -1,0 +1,14 @@
+body{
+    font-size: 18px; 
+    font-family: 'Gill Sans'; 
+    color: brown; 
+    background-color: lightblue;
+    line-height: 1.5
+}
+
+@media all and (min-width: 600px) {
+        h2 { background-color: rgb(25, 202, 25) ; }
+        ul {background-color: rgb(238, 158, 9); }
+} 
+
+ 
