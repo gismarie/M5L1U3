@@ -1,0 +1,50 @@
+body{
+    color: darkblue;
+    font-family: 'Gill Sans';
+}
+
+.container{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+}
+
+.info-container{
+    display:flex;
+ }
+.contact-container{
+    margin-left: 6px;
+}
+.title{
+    font-size: 18px;
+    margin: 4px;
+}
+.subtitulo{
+    font-size: 18px;
+    margin: 4px;
+}
+.comments-container{
+    display: flex;
+    font-size: 18px;
+    
+}
+.botton{
+    height: 40px;
+    border-radius: 5px;
+}
+.book{
+    background-color: rgb(150, 244, 175);
+    border: 1px solid grey;
+    height: 30px;
+}
+.budget{
+    background-color: rgb(196, 240, 168);
+    border: 1px solid grey;
+    height: 30px;  
+}
+.mark{
+    background-color: rgb(243, 237, 151);
+    color: black;
+    margin-left: 10px;
+    padding: 6px;
+}
