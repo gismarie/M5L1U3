@@ -1,23 +1,23 @@
 .menu {
-    margin: 0px;
-    background-color: rgb(4, 216, 4);
-    width: 300px;
+    margin: 2px;
+    background-color: rgb(14, 227, 14);
+    width: 600px;
     padding: 50px;
-    height: auto;
- }
+    height: 600px;
+}
 
 body {
     color: white;
-    font-family: 'Segoe UI' ;
-    font-size: 40px;
+    font-family:'Segoe UI' ;
+    font-size: 50px;
     flex-direction: column;
 }    
-body { 
-    background-color: white;
-    height: 100px;
-    width: 100%;
+
+.menu a:hover{
+    color: rgb(255, 115, 0);
+} 
+
+.menu a:visited {
+    color:greenyellow
 }
 
-.menu a:visited{
-color: rgb(255, 0, 0);
-} 
